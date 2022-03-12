@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I was changed one the Feature Branch
+          I was changed one the Feature Branch - DGTech
         </a>
       </header>
     </div>
